@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cdfb763b0f939e8ce398bfb2e7fdcad235e3a4b9">
+        <dex dex="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_44a7a2f1b5642c7515c09aa186bfecffdcb82999/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="adcbd0a722d69ffa5d7ca3886d6d7cd0e775d909">
+        <dex dex="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_81983902acdae88145c4c73d3c3e842367aa334e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_aa1d0bd61a64b67ca28ccfab341dd33b5eb1440c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_73456e17585ef5d26d64b29a9bb9d561b6377485/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_d21fb6de11c297dd244504fc94ed4c48fcee5d50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/D4RKF0RCE/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f93ce4c0bc07d59493692324b7e5362cd30c8182/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_0d7491bc339685a92f595cf84ea3e9a1f81a6495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/D4RKF0RCE/Documents/Sem7/MC/Assignment3/Phantom/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_6963422276a8e461c525540d520f232a94a6d383/classes.dex" />
+    </item>
+
+</items>
